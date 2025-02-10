@@ -12,7 +12,9 @@ Machine Learning: Scikit-learn (Random Forest Regressor)
 Text Processing: TF-IDF Vectorization
 Data Handling: Pandas, NumPy
 Visualization: Matplotlib
+
 🔹 Model Workflow
+
 1️⃣ Dataset Creation
 
 A dataset of MacBook features and corresponding descriptions was manually curated.
@@ -31,5 +33,8 @@ The Random Forest model predicts the best-matching description.
 The output description is randomly structured using predefined sentence templates to add variety.
 
 4️⃣ Data Visualization
+
+VISIT OUR APP:
+https://adiaitechnologies.streamlit.app
 
 A bar chart displays the frequency of selected features in the dataset.
